@@ -43,7 +43,10 @@
   
 
   
-      ,"page9": {
+  
+
+  
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://morningducke.github.io/test/robots.txt",
