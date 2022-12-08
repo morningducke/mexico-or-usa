@@ -6,5 +6,6 @@
 
 https://morningducke.github.io/mexico-or-usa/
 
+a simple fastai deep learning model that tries to predict whether the image was taken in mexico or usa. 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
